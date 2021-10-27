@@ -10,171 +10,171 @@ export const BadgeStack: React.FC<BadgeStackProps> = (props) => {
       <div className='flex flex-col space-y-1'>
         <div className='space-x-2'>
           <Badge {...props} size='sm' variant='solid' themeColor='default'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='sm' variant='subtle' themeColor='default'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='sm' variant='outline' themeColor='default'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='sm' variant='solid' themeColor='primary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='sm' variant='subtle' themeColor='primary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='sm' variant='outline' themeColor='primary'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='sm' variant='solid' themeColor='secondary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='sm' variant='subtle' themeColor='secondary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='sm' variant='outline' themeColor='secondary'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='sm' variant='solid' themeColor='success'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='sm' variant='subtle' themeColor='success'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='sm' variant='outline' themeColor='success'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='sm' variant='solid' themeColor='danger'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='sm' variant='subtle' themeColor='danger'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='sm' variant='outline' themeColor='danger'>
-            Beta
+            Alpha
           </Badge>
         </div>
       </div>
       <div className='flex flex-col space-y-1'>
         <div className='space-x-2'>
           <Badge {...props} size='md' variant='solid' themeColor='default'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='md' variant='subtle' themeColor='default'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='md' variant='outline' themeColor='default'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='md' variant='solid' themeColor='primary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='md' variant='subtle' themeColor='primary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='md' variant='outline' themeColor='primary'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='md' variant='solid' themeColor='secondary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='md' variant='subtle' themeColor='secondary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='md' variant='outline' themeColor='secondary'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='md' variant='solid' themeColor='success'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='md' variant='subtle' themeColor='success'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='md' variant='outline' themeColor='success'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='md' variant='solid' themeColor='danger'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='md' variant='subtle' themeColor='danger'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='md' variant='outline' themeColor='danger'>
-            Beta
+            Alpha
           </Badge>
         </div>
       </div>
       <div className='flex flex-col space-y-1'>
         <div className='space-x-2'>
           <Badge {...props} size='lg' variant='solid' themeColor='default'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='lg' variant='subtle' themeColor='default'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='lg' variant='outline' themeColor='default'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='lg' variant='solid' themeColor='primary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='lg' variant='subtle' themeColor='primary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='lg' variant='outline' themeColor='primary'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='lg' variant='solid' themeColor='secondary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='lg' variant='subtle' themeColor='secondary'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='lg' variant='outline' themeColor='secondary'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='lg' variant='solid' themeColor='success'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='lg' variant='subtle' themeColor='success'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='lg' variant='outline' themeColor='success'>
-            Beta
+            Alpha
           </Badge>
         </div>
         <div className='space-x-2'>
           <Badge {...props} size='lg' variant='solid' themeColor='danger'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='lg' variant='subtle' themeColor='danger'>
-            Beta
+            Alpha
           </Badge>
           <Badge {...props} size='lg' variant='outline' themeColor='danger'>
-            Beta
+            Alpha
           </Badge>
         </div>
       </div>
